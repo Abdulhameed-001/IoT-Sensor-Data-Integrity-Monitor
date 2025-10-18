@@ -1,0 +1,15 @@
+SENSOR READINGS
+Reading 1: 24.0
+Reading 2: 24.5
+Reading 3: 24.7
+Reading 4: 25.0
+Reading 5: 24.9
+Reading 6: 80.0
+Reading 7: 81.2
+Reading 8: 25.1
+Reading 9: 25.0
+Reading 10: 24.8
+Reading 11: 300.0
+Reading 12: 25.2
+
+ANOMALY LOG
